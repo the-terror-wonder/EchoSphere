@@ -18,7 +18,7 @@ const app = express();
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const port = process.env.PORT || 4444;
+const port = process.env.PORT || 5000;
 const DATABASE_URL = process.env.MONGODB_URL;
 
 const allowedOrigins =
