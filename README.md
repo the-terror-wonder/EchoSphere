@@ -1,7 +1,7 @@
 
 # 🗨️ EchoSphere - Real-Time Messaging App
 
-**EchoSphere** is a full-stack messaging app built with **React**, **Node.js**, **Express**, **Socket.IO**, and **MongoDB**. It offers real-time chat, file uploads, and a modern UI with Dockerized development setup.
+**EchoSphere** is a full-stack messaging app built with **React**, **Node.js**, **Express**, **Socket.IO**, and **MongoDB**. It offers real-time chat, file uploads, and a modern UI.
 
 ---
 
@@ -10,9 +10,7 @@
 - 🔐 JWT-based user authentication
 - 💬 Real-time messaging using Socket.IO
 - 📁 Profile and file uploads (Multer)
-- 🌙 Dark/light mode support (next-themes)
 - 🎨 Clean and accessible UI (Radix UI, TailwindCSS)
-- 🐳 Dockerized setup for easy development
 
 ---
 
