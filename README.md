@@ -18,19 +18,19 @@
 
 | Layer     | Tech Stack                                            |
 |-----------|--------------------------------------------------------|
-| Frontend  | React, Vite, Zustand, TailwindCSS, Socket.IO Client   |
+| Frontend  | React, Vite, TailwindCSS, Socket.IO Client   |
 | Backend   | Node.js, Express, MongoDB, Socket.IO, Multer          |
 | Realtime  | WebSockets (Socket.IO)                                |
-| Styling   | TailwindCSS, clsx, Radix UI, Lucide Icons             |
-| State     | Zustand, Zustand Persist                              |
+| Styling   | TailwindCSS, Radix UI, Lucide Icons             |
+
 
 ---
 
 ## 📦 Frontend Dependencies
 
-- `react`, `vite`, `axios`, `zustand`
+- `react`, `vite`, `axios`,
 - `socket.io-client`, `moment`, `emoji-picker-react`, `gsap`
-- `tailwindcss`, `clsx`, `tailwind-merge`, `radix-ui`, `lucide-react`
+- `tailwindcss`,`tailwind-merge`, `radix-ui`, `lucide-react`
 
 ## 📦 Backend Dependencies
 
